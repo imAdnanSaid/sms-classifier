@@ -31,7 +31,7 @@ Welcome to the SMS/Email Spam Classifier project! This project is designed to he
 <ol style="font-size: 16px; line-height: 1.6;">
   <li><strong>Clone the repository:</strong></li>
   <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
-    <code>git clone https://github.com/imAdnanSaid/sms-email-classifier.git<br>cd sms-email-classifier</code>
+    <code>git clone https://github.com/imAdnanSaid/sms-classifier.git<br>cd sms-classifier</code>
   </pre>
   
   <li><strong>Install the required packages:</strong></li>
